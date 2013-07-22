@@ -1,11 +1,9 @@
-THIS IS MY FIRST GIT PROGRAM,FIGHT
+#THIS IS MY FIRST PROGRAM GIT.
 git init
 
 git add fileName
 git commit
-git remote add origin https://github.com/username/project.git
+git remote add upstream https://github.com/username/project.git
 git push origin master
-
-
-
+git fetch upstream
 
