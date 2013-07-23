@@ -17,3 +17,6 @@ git merge upstream/master
 git branch mybranch
 git checkout -b mybranch = git branch xx git checkout xxx
 git merge mybranch(back into master)
+
+git helper
+gitref.cyj.me/zh/
