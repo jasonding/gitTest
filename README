@@ -1,6 +1,6 @@
 #THIS IS MY FIRST PROGRAM GIT.
 git init
-
+xxxxx
 #upload
 git add fileName
 git commit -m 'message'
