@@ -18,5 +18,8 @@ git branch mybranch
 git checkout -b newbranch
 git merge origin/master
 
+git branch -d oldbranch
+git push origin :oldbranch
+
 git helper
 gitref.cyj.me/zh/
